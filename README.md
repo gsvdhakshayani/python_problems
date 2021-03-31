@@ -1,2 +1,2 @@
-# python_projects
-summer module
+# python_problems
+These are few problems I solved in python.
